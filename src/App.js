@@ -4,7 +4,8 @@ function App () {
         <div>
             Hello GIT lol
             lol
-            Hmm
+            Hmm, 
+            How are you ?
         </div>
     );
 }
